@@ -24,5 +24,5 @@ please note:
 
 You can find tutorials and testing videos here: https://www.youtube.com/c/BRUTALSAMM/videos
 
-You can follow me on twitter for jailbreak and emulation news https://x.com/BrutalSam_
+You can follow me on twitter for jailbreak and emulation news [https://x.com/BrutalSam_](https://x.com/BrutalSam_)
   
