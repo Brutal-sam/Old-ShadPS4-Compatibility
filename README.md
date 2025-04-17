@@ -1,7 +1,9 @@
 Old ShadPS4 Compatibility
 
 this is the old shadps4 compatibility database before deletion, it contains over 2000 tested games.
-This was the compatibility list as of March 19, 2025. 
+This was the compatibility list as of March 19, 2025. click here: https://brutal-sam.github.io/Old-ShadPS4-Compatibility/
+
+This was the status of shadps4 before the compatibility github was deleted
 ![Capture](https://github.com/user-attachments/assets/8a1e6141-7bc9-4659-bc37-697c5acc83a6)
 
 in this simple table, you'll be able to search by a game serial to see its last compatibility status
